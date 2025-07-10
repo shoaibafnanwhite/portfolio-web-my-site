@@ -1,0 +1,25 @@
+
+
+.open-sans-normal{font-family: open sans,sans-serif;
+font-optical-sizing: auto;
+font-style: normal;
+font-variation-settings: "wdth"100;}
+
+/*nav styles*/
+nav{display: flex;align-items: center;justify-content: space-between;margin: 0px 200px;}
+.nav-tittle{font-weight: 800;font-size: 45px;}
+nav ul li{list-style: none;margin: 50px;}
+nav  li a{text-decoration: none;font-size: 20px;}
+nav ul {display: flex;align-items: center;}
+/*shared style*/
+.text-primary{color: #FD6E0A;}
+.dark-2{color: #474747;}
+.btn-primary{background-color: #FD6E0A;border: none;font-weight: bold;color: aliceblue;border-radius: 5px;padding: 18px;font-size: 20px;}
+/*banner-styles*/
+.b1{font-size: 45px;font-weight: 600px;}
+.b2{font-size: 85px;font-weight: bold;}
+.banner-profile-picture{width: 580px;}
+.banner{display: flex;justify-content: space-between;margin: 0px 35px 0 200px;}
+.banner-content{max-width: 580px;}
+/*header*/
+.header{background-image: url(../images/developer3.jpg);background-repeat: no-repeat;background-position: left ;}
